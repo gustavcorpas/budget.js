@@ -1,5 +1,8 @@
 # budget
 
+A simple budget app.
+Available at: [corpas.nu/testings/budget/](https://corpas.nu/testings/budget/)
+
 ## Project setup
 ```
 npm install
